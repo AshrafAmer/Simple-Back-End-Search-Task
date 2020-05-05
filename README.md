@@ -21,13 +21,13 @@ To execute this repo on your machine, follow the steps:
     - Open your browser: `http://localhost:8085/search`
 
 All Data will be recieved as JSON, to dealing with it as GUI. You need to build a views such as ejs just for test.
-Note That: search form must `POST` to the same page. the fields must be named to:
-    > 'name' to search by name, 
-    > 'city' to search by city,
-    > 'price_from' range start from,
-    > 'price_to' range bounded by this value,
-    > Also dates : 'date_from', and 'date_end'.
-    > That's all and enjoy.
+Note That: search form must `POST` to the same page. the fields must be named to: </br>
+    > 'name' to search by name, </br> 
+    > 'city' to search by city, </br>
+    > 'price_from' range start from, </br>
+    > 'price_to' range bounded by this value, </br>
+    > Also dates : 'date_from', and 'date_end'. </br>
+    > That's all and enjoy. </br>
 
 
 # Author

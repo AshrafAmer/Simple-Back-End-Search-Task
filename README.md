@@ -16,7 +16,7 @@ To execute this repo on your machine, follow the steps:
 
     - Clone this repo or download it. 
     - goto the repo and open your terminal.
-    - run the command `npm init`.
+    - run the command `npm install`.
     - then, run `npm server`
     - Open your browser: `http://localhost:8085/search`
 
